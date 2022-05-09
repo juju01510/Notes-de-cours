@@ -1,0 +1,30 @@
+Basic
+
+Date de création ?
+Le langage Basic a été conçu en 1964 par John George Kemeny (1926-1993) 
+et Thomas Eugene Kurtz (1928-) au « Dartmouth College » pour permettre 
+aux étudiants des filières non scientifiques d'utiliser des ordinateurs.
+Il semble être le 1er langage a être adapté a une utilisation sur un terminal interactif.
+
+Usage ?
+Généraliste, pouvait traiter à l'époque aussi bien les matrices de nombres que les chaînes de caractères.
+
+Fortement ou faiblement typé ?
+Fortement
+
+
+Typage dynamique ?
+Statique
+
+Interprété ou natif ?
+Interprété
+
+
+Classement ?
+N'est plus utilisé mais a influencé d'autres langages
+plus récents notamment Visual Basic.
+
+
+
+
+
